@@ -1,0 +1,58 @@
+{
+  "programs": {
+    "id": "str",
+    "attraction": "str",
+    "duration": "int",
+    "first_utc": "int"
+  },
+  "offsets": {
+    "region": "str",
+    "offset": "int"
+  },
+  "rights": {
+    "id": "str",
+    "program": "str",
+    "region": "str",
+    "start": "int",
+    "until": "int",
+    "from_min": "int",
+    "to_min": "int",
+    "known_at": "int"
+  },
+  "coverage": {
+    "region": "str",
+    "platform": "str",
+    "start": "int",
+    "until": "int"
+  },
+  "view": {
+    "viewer": "str",
+    "program": "str",
+    "region": "str",
+    "platform": "str",
+    "utc": "int",
+    "from_min": "int",
+    "to_min": "int",
+    "kind": "str"
+  },
+  "eligible": {
+    "viewer": "str",
+    "program": "str",
+    "region": "str",
+    "entitled_at": "int"
+  },
+  "slots": {
+    "id": "str",
+    "program": "str",
+    "regions": "str",
+    "start": "int",
+    "until": "int",
+    "lane": "str"
+  },
+  "events": {
+    "seq": "int",
+    "utc": "int",
+    "action": "str",
+    "ref": "str"
+  }
+}

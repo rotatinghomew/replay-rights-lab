@@ -1,0 +1,5 @@
+region,platform,start,until
+E,alpha,17,145
+W,alpha,17,105
+W,beta,36,112
+M,beta,89,117

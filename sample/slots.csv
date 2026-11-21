@@ -1,0 +1,5 @@
+id,program,regions,start,until,lane
+v1,m4,"E,W,M",100,107,lane1
+v2,m5,"E,W",129,135,lane1
+v3,m6,E,129,136,lane1
+v4,m6,E,147,153,lane1
